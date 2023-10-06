@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.32.0",
-    "langchain": "^0.0.119",
+    "langchain": "^0.0.161",
     "pdf-parse": "^1.1.1",
     "pickleparser": "^0.1.0",
     "redis": "^4.6.7"
